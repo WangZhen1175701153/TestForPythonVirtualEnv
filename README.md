@@ -1,0 +1,2 @@
+# TestForPythonVirtualEnv
+简单测试工具，检测是否正确安装英伟达驱动及深度学习框架
