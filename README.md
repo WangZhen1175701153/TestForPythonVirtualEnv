@@ -11,3 +11,6 @@ windows环境下双击直接运行，检查当前windows环境下是否正确安
 正确Torch、Tensorflow后输出如下所示：
 
 ![pyTest](https://user-images.githubusercontent.com/33210252/140045430-85c25ec0-1dd8-4682-b8db-e734868d714d.JPG)
+
+### Torch、Torchvision与python版本对应关系 ###
+参考此链接 https://github.com/pytorch/vision#installation
