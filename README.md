@@ -1,5 +1,6 @@
 # TestForPythonVirtualEnv
 简单测试工具，检测是否正确安装英伟达驱动及深度学习框架
+pytorch及tensorflow与其它软件对应关系
 ## 文件说明 ##
 ### testGPU.bat ###
 windows环境下双击直接运行，检查当前windows环境下是否正确安装英伟达驱动及CUDA计算工具。
@@ -14,3 +15,12 @@ windows环境下双击直接运行，检查当前windows环境下是否正确安
 
 ### Torch、Torchvision与python版本对应关系 ###
 参考此链接 https://github.com/pytorch/vision#installation
+
+###  pytorch与CUDA版本对应关系 ###
+![pytorch与CUDA对应版本](https://user-images.githubusercontent.com/33210252/140243106-a81acf96-d061-4d42-95fc-fcb88c13b1b7.png)
+
+### tensorflow与CUDA、cudn版本对饮关系 ###
+参考此链接 ：https://tensorflow.google.cn/install/source
+
+
+
